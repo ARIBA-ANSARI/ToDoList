@@ -1,3 +1,12 @@
-![ToDoList HTML](https://github.com/ARIBA-ANSARI/ToDoList/assets/159802832/4830356b-9122-4abb-a2f1-b72ef4a73caa)
-![ToDoList CSS](https://github.com/ARIBA-ANSARI/ToDoList/assets/159802832/e4b6d5b3-5636-4ac8-a691-b628fe578cd5)
-![ToDoList JS](https://github.com/ARIBA-ANSARI/ToDoList/assets/159802832/809ea741-6b75-4ddf-80df-ea3c1943c998)
+A to-do list application is a productivity tool designed to help users organize and manage tasks efficiently. My implementation of a to-do list provides an intuitive and user-friendly interface where users can add, edit, and delete tasks. Each task can be assigned a priority level, categorized for better organization, and marked as completed when finished
+
+Key Features:
+Task Management: Add, edit, or delete tasks easily with a streamlined user interface.
+Responsive Design: Optimized for both desktop and mobile devices to offer a seamless experience across platforms.
+Real-Time Updates: Changes to tasks are reflected in real-time, keeping the list up-to-date.
+
+Technologies Used:
+HTML
+CSS
+JAVASCRIPT 
+
